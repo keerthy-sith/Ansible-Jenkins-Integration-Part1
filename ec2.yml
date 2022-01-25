@@ -1,6 +1,6 @@
 ---
 - name: ec2 
-  hosts: localhost
+  hosts: localhosts
   become: True
   tasks:
     - name: instance creation
