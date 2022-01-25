@@ -11,7 +11,5 @@
         region: us-east-1
         group: default
         count: 1
-        vpc_subnet_id: subnet-22451644
-        wait: yes
         assign_public_ip: yes
 ...
